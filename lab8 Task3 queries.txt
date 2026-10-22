@@ -1,0 +1,14 @@
+lab8Task3 queries: 
+
+
+98 ?- consult(['c:/Users/wasan/OneDrive - IMAM ABDULRAHMAN BIN FAISAL UNIVERSITY/Desktop/ARTI401 AI/AI Lab/lab8Task3.pl']).
+true.
+
+99 ?- total_average.
+Enter the first number: 2.
+Enter the second number: |: 4.
+Enter the third number: |: 7.
+
+Total = 13
+Average = 4.333333333333333
+true.
